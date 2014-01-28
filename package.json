@@ -5,9 +5,14 @@
   "main": "index.js",
   "dependencies": {
     "underscore": "~1.5.2",
-    "rendr": "~0.5.0-rc1",
     "async": "~0.2.10"
   },
+  "contributors": [
+    {
+      "name":"Kaushik Thirthappa",
+      "email":"thirthappa.kaushik@gmail.com"
+    }
+  ],
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
