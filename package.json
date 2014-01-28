@@ -1,6 +1,6 @@
 {
   "name": "hasp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Before and after filters for Rendr",
   "main": "index.js",
   "dependencies": {
