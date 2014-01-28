@@ -1,0 +1,22 @@
+{
+  "name": "hasp",
+  "version": "0.0.1",
+  "description": "Before and after filters for Rendr",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "rendr": "~0.5.0-rc1",
+    "async": "~0.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rendr",
+    "filters",
+    "controllers"
+  ],
+  "author": "Kaushik Thirthappa",
+  "license": "BSD-2-Clause"
+}
